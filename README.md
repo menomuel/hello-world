@@ -1,2 +1,5 @@
 # hello-world
-Stuff
+
+Hello, ladies'n'gentelmen!
+
+Herein my journey begins.
